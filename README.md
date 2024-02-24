@@ -2,6 +2,7 @@
 
 Make intuitve pixel art in this simple drawing tool written in _vanilla javascript_ :cake:
 
+Raph currently working on choppy lines and hex issues
 ![Image](gif/selectionCopy.gif)
 
 ## Features
